@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(27.843139%,80.392158%,77.64706%);fill-opacity:1;stroke-width:0.755952;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(27.843139%,80.392158%,77.64706%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8.319677 287.477899 L 5.145267 289.595157 L 8.319677 291.712414 Z M 8.319677 287.477899 " transform="matrix(0,1.322835,1.322835,0,-378.285696,2.994444)"/>
+<path style="fill:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,41.568628%,40.000001%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.027083 1.5875 L 7.672917 1.5875 " transform="matrix(1.889764,0,0,1.889764,0.00000090111,0)"/>
+<path style="fill:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,41.568628%,40.000001%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.027083 2.645833 L 7.672917 2.645833 " transform="matrix(1.889764,0,0,1.889764,0.00000090111,0)"/>
+<path style="fill:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,41.568628%,40.000001%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.027083 5.820834 L 7.672917 5.820834 " transform="matrix(1.889764,0,0,1.889764,0.00000090111,0)"/>
+<path style="fill:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(100%,41.568628%,40.000001%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.027083 6.879167 L 7.672917 6.879167 " transform="matrix(1.889764,0,0,1.889764,0.00000090111,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(27.843139%,80.392158%,77.64706%);fill-opacity:1;stroke-width:0.755952;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(27.843139%,80.392158%,77.64706%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8.319676 287.477899 L 5.145267 289.595157 L 8.319676 291.712414 Z M 8.319676 287.477899 " transform="matrix(0,-1.322835,1.322835,0,-378.285696,13.005555)"/>
+</g>
+</svg>
