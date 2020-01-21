@@ -25,6 +25,7 @@ PNG_FOLDER=$(echo $SVG_FOLDER | sed "s/_svg//")
 NUMSVG=$(find "$SVG_FOLDER" -name "sc_*.svg" | wc -l)
 echo "Preparing $NUMSVG SVGs ..."
 counter=1
+mkdir -pv "$SVG_FOLDER/cmd/32"
 find "$SVG_FOLDER" -name "sc_*.svg" | while read i;
 do
     CURFILE=`basename -s .svg $i | cut -d '_' -f 2`
@@ -34,7 +35,7 @@ do
     # convert to lc size
     rsvg-convert -f svg "$i" -w 24 -a -o "$DIRFILE/lc_$CURFILE.svg"
     # convert to extralarge size
-    rsvg-convert -f svg "$i" -w 32 -a -o "$DIRFILE/$CURFILE_extralarge.svg"
+    rsvg-convert -f svg "$i" -w 32 -a -o "$DIRFILE/32/$CURFILE.svg"
     current=$((counter%100))
     if [[ "$current" == "0" ]];then
         echo "[$counter/$NUMSVG] ..."
